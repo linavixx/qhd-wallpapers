@@ -1,10 +1,11 @@
 <h3 align="center">
 QHD-Wallpapers
  <h5 align="center">
-This is my collection of wallpapers taken from various sources (but mainly Wallhaven and Unsplash) that will be updatedin the future. Strictly for personal use, nothing in this repo is owned by me or affiliated with me in any way. If you're the creator of a picture and you want it removed or credited, contact me. Enjoy!
+This is my collection of wallpapers taken from various sources (but mainly Wallhaven and Unsplash) that will be updated in the future. Strictly for personal use, nothing in this repo is owned by me or affiliated with me in any way. If you're the creator of a picture and you want it removed or credited, contact me. Enjoy!
  </h5>
 </h3>
-   
+
+**Note:** It's a **big** repo, 4GB at the time of me typing this. I don't have a storage problem so it'll likely only grow bigger with time.
 
 ## **Some rules I follow here:**
 -  **Strictly 1440p or above.** Extreme compression isn't tolerated either. If there's a picture that did not originally exist in 1440p+, it means I upscaled it. Don't worry about the quality, I won't upload something that upscales poorly.
