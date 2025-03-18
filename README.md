@@ -1,16 +1,16 @@
 <h3 align="center">
 QHD-Wallpapers
  <h5 align="center">
-This is my collection of wallpapers taken from various sources (but mainly Wallhaven and Unsplash) that will be updated in the future. Strictly for personal use, nothing in this repo is owned by me or affiliated with me in any way. If you're the creator of a picture and you want it removed or credited, contact me. Enjoy!
+Here comes another wallpaper collection. Taken from a variety of sources, but mainly Wallhaven and Unsplash.
  </h5>
 </h3>
 
-**Note:** It's a **big** repo, 4.9 GiB at the time of me typing this (you can save 2.4 GiB by removing .git folder). I don't have a storage problem so it'll likely only grow bigger with time.
+**Why (or why not) this over anything else out of hundreds of wallpaper repos on GitHub?**
+- Do you like looking at stretched pixels and JPEG artifacts? Me neither. That's why everything in here will be at **1440p** or higher, sometimes achieved via upscaling. Though, it comes with a downside - the repo is big, approaching 600 files and 3GiB size at the moment. A huge portion of the stuff actually reaches or surpasses 4K, and something that doesn't will almost certainly be a good fit for upscaling.
 
-## **Some rules I follow here:**
--  **Strictly 1440p or above.** Extreme compression isn't tolerated either. If there's a picture that did not originally exist in 1440p+, it means I upscaled it. Don't worry about the quality, I won't upload something that upscales poorly.
+## **Some other rules I follow here:**
 -  **Strictly SFW.** Self-explanatory.
--  **Tagging.** To simplify searching, every wallpaper here will have its category specified in the title.
+-  **Tagging.** Every wallpaper here will have its category specified in the title. This is useful for searching: for example, if you use Rofi as a wallpaper selector.
 
  ### **Categories:**
  - **Abstract:** Self-explanatory.
@@ -20,3 +20,5 @@ This is my collection of wallpapers taken from various sources (but mainly Wallh
  - **Pixel:** Artworks or renders in a pixel-art style.
  - **Urban:** Anything taken in real life within a distinct urban environment.
  - **Nature:** Anything taken in real life with nature in the focus.
+
+**Note:** None of the content present here is owned by me or affiliated with me in any way. If there are your works that you would like to get removed or credited, contact me.
