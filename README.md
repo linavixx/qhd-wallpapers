@@ -19,7 +19,7 @@ Here comes another wallpaper collection. Taken from a variety of sources, but ma
 Why (or why not) this over anything else out of hundreds of wallpaper repos on GitHub?
 </h4>
 
-- Do you like looking at stretched pixels and JPEG artifacts? Me neither. That's why everything in here will be at **1440p** or higher, sometimes achieved via upscaling. Though, it comes with a downside - the repo is big, approaching 600 files and 3GiB size at the moment. A huge portion of the stuff actually reaches or surpasses 4K, and something that doesn't will almost certainly be a good fit for upscaling.
+- Do you like looking at stretched pixels and JPEG artifacts? Me neither. That's why everything in here will be at **1440p** or higher, sometimes achieved via upscaling. For better or for worse, the repo is quite big - there's a total of 875 wallpapers at almost 5GB. A huge portion of the stuff actually reaches or surpasses 4K, and something that doesn't will almost certainly be a good fit for upscaling.
 
 ## **Some other rules I follow here:**
 -  **Strictly SFW.** Self-explanatory.
@@ -35,3 +35,5 @@ Why (or why not) this over anything else out of hundreds of wallpaper repos on G
  - **Nature:** Anything taken in real life with nature in the focus.
 
 **Note:** None of the content present here is owned by me or affiliated with me in any way. If there are your works that you would like to get removed or credited, contact me.
+
+**Another note:** The repo is finalized and will no longer be updated.
